@@ -1,0 +1,25 @@
+GPEN License
+============
+
+Source: https://github.com/yangxy/GPEN
+Copyright (c) 2021, Alibaba DAMO Academy
+
+For academic and non-commercial use only.
+
+This software and associated documentation files (the "Software") may only
+be used for academic and non-commercial purposes. Commercial use of the
+Software is strictly prohibited without prior written permission from the
+copyright holders.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Applies to:
+- GPEN-BFR-256.onnx
+- GPEN-BFR-256.fp16.onnx
+- GPEN-BFR-512.fp16.onnx

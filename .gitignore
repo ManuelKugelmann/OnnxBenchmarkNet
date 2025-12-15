@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Optimized ONNX models (generated, provider-specific)
+models/*_optimized_*.onnx
+
+# Local ONNX Runtime downloads
+runtimes/
+*.zip
+
+# Benchmark results and profiles
+benchmark_results.txt
+onnxruntime_profile*.json
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+CLAUDE.md
