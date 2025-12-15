@@ -6,6 +6,7 @@ obj/
 
 # Visual Studio
 .vs/
+*.sln
 *.user
 *.suo
 *.userosscache
